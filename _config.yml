@@ -29,21 +29,21 @@ projects:
     # - repo-name
 
 social_media:
-  behance: your_username
-  dribbble: your_username
-  facebook: your_username
-  hackerrank: your_username
-  instagram: your_username
-  keybase: your_username
-  linkedin: your_username
-  mastodon: your_username
-  medium: your_username
-  stackoverflow: your_user_id
-  telegram: your_username
-  twitter: your_username
-  unsplash: your_username
-  vk: your_username
-  website: http://your_website_url
+#   behance: your_username
+#   dribbble: your_username
+#   facebook: your_username
+#   hackerrank: your_username
+#   instagram: your_username
+#   keybase: your_username
+#   linkedin: your_username
+#   mastodon: your_username
+#   medium: your_username
+#   stackoverflow: your_user_id
+#   telegram: your_username
+#   twitter: your_username
+#   unsplash: your_username
+#   vk: your_username
+  website: http://sc136.ml
   youtube: scsmarttech
 
 topics:
